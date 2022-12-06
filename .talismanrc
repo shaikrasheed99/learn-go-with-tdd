@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: go.sum
   checksum: 237b1f6cb5439e71a40df1505f6fe52e3366e8e382b0a25f5e388c4bbfcf81b6
+- filename: maps/cricket_team.go
+  checksum: 1280d47ba5d01eb36a05fe97980553506bc6e7c0713a8c76233c1481d6641964
 version: ""
