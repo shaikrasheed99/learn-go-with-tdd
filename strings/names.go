@@ -12,6 +12,7 @@ func UniqueNames(groupOne []string, groupTwo []string) []string {
 		_, ok := uniqueSet[g1]
 		if !ok {
 			uniqueSet[g1] = 1
+			uniqueNames = append(uniqueNames, g1)
 		}
 	}
 
@@ -19,11 +20,8 @@ func UniqueNames(groupOne []string, groupTwo []string) []string {
 		_, ok := uniqueSet[g2]
 		if !ok {
 			uniqueSet[g2] = 1
+			uniqueNames = append(uniqueNames, g2)
 		}
-	}
-
-	for key := range uniqueSet {
-		uniqueNames = append(uniqueNames, key)
 	}
 
 	return uniqueNames
