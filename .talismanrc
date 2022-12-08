@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: 237b1f6cb5439e71a40df1505f6fe52e3366e8e382b0a25f5e388c4bbfcf81b6
 - filename: maps/cricket_team.go
   checksum: 1280d47ba5d01eb36a05fe97980553506bc6e7c0713a8c76233c1481d6641964
+- filename: strings/names.go
+  checksum: 9da3dabc825d8be30014fd78796cf8c3810b28eee9cc183011061b5f7b63b052
 version: ""
