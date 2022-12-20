@@ -5,4 +5,6 @@ fileignoreconfig:
   checksum: 1280d47ba5d01eb36a05fe97980553506bc6e7c0713a8c76233c1481d6641964
 - filename: strings/names.go
   checksum: 9da3dabc825d8be30014fd78796cf8c3810b28eee9cc183011061b5f7b63b052
+- filename: urls-parsing/urls.go
+  checksum: a81ab4d77a6c76c21870fb56ceb3d9a40e7639f3eb6d5254f94018ab28edf047
 version: ""
