@@ -1,4 +1,4 @@
-package slices
+package weather
 
 func Sum(report []float64) float64 {
 	sum := 0.0
