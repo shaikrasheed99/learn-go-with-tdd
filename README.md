@@ -1,5 +1,4 @@
 # Learn Go with Test Driven Development
-
 Example codes which I have learnt from the below courses. 
 
 * [Go by Example](https://gobyexample.com/)
